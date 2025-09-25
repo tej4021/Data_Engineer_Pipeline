@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Sep 15 12:43:57 IST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0199-4c39-25a2-000000f1e4c0 
+on database directory C:\Users\HP\OneDrive\Desktop\telness_pipeline_tajender\data\metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3fee733d 
+Loaded from file:/C:/spark/jars/derby-10.16.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=21.0.7+6-LTS
+user.dir=C:\Users\HP\OneDrive\Desktop\telness_pipeline_tajender\data
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
