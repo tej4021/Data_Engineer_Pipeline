@@ -9,6 +9,9 @@ This project builds a **local data pipeline** using Python & Pandas, following t
 
 Gold tables are stored both as **CSV files** and in a local **SQLite database** (`data/gold/gold.db`) for easy querying.
 
+- * if you need csv's to run the pipeline, please connect with me via email : tajender.singh4021@gmail.com
+- https://www.linkedin.com/in/tajender-singh-katal-83084291/
+
 ---
 
 ## Steps to Run (ANACONDA PROMPT)
