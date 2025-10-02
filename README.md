@@ -1,4 +1,4 @@
-# Telness Tech Data Pipeline
+# Data Pipeline
 
 ## Overview
 This project builds a **local data pipeline** using Python & Pandas, following the **Bronze -> Silver -> Gold** architecture.  
